@@ -13,6 +13,9 @@ Hi, I'm [Chirag Sharma](https://github.com/scyther) a self-taught programmer. Cu
   
 **Some of my Projects:**
 
+- [WatchList](https://github.com/scyther/WatchList)
+- [Practicle-File](https://github.com/scyther/PracticleFile)
+
 - [InstaClone](https://github.com/scyther/instaClone)
 
    
