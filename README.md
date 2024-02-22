@@ -35,6 +35,4 @@ Hi, I'm [Chirag Sharma](https://github.com/scyther) a self-taught programmer. Cu
 
 
 
-📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=scyther&show_icons=true&theme=dark" alt="Chirag Sharma's GitHub Stats" />
