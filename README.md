@@ -1,29 +1,31 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm [Chirag Sharma](https://github.com/scyther) a self-taught programmer. Currently I am working  in React-Native.
+Hi, I'm [Chirag Sharma](https://github.com/scyther) a self-taught programmer. Currently I am as Senior Developer @Wasserstoff. I am a Full-Stack Developer with a passion for building and deploying highly scalable, performant and fast web applications.
 
+## Skills
+- **Programming Languages:** Typescript, Rust
+- **Frameworks & Libraries:** React Native, NextJS, NodeJS, Prisma, ReactJS
+- **Tools & Platforms:** AWS, MongoDB, Docker, DevOps, Git, RabbitMQ, Redis, CI/CD
 
-  
-**Some of my Projects:**
-
+## Links to Projects and Profiles
+- [Wasserstoff LinkedIn](https://www.linkedin.com/company/wasserstoff/mycompany/)
+- [iQueue 365 LinkedIn](https://www.linkedin.com/company/iqueue-365/)
+- [Himtour Holidays](https://www.himtourholidays.in/)
+- [Astrix](https://astrix.live/)
+- [Porfo](https://www.porfo.app/)
+- [MEU](https://meu.network/)
+- [iCompile](https://icompile.onrender.com/)
+- [InstaClone GitHub](https://github.com/scyther/InstaClone)
 - [WatchList](https://github.com/scyther/WatchList)
 - [Practicle-File](https://github.com/scyther/PracticleFile)
 
-- [InstaClone](https://github.com/scyther/instaClone)
-
-   
-- [BgChanger](https://github.com/scyther/BGChanger)  
-
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+## Contact Information
+- **Email:** [sharma.chirag3737@gmail.com](mailto:sharma.chirag3737@gmail.com)
+- **Phone:** +91 70186-22142
+- **Location:** Hamirpur (HP), India
+- **Portfolio:** [scyther.github.io](https://scyther.github.io/)
+- **GitHub:** [scyther](https://github.com/scyther)
+- **LinkedIn:** [scyther37](https://www.linkedin.com/in/scyther37/)
 
 
 
