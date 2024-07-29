@@ -23,7 +23,7 @@ Hi, I'm [Chirag Sharma](https://github.com/scyther) a self-taught programmer. Cu
 - **Email:** [sharma.chirag3737@gmail.com](mailto:sharma.chirag3737@gmail.com)
 - **Phone:** +91 70186-22142
 - **Location:** Hamirpur (HP), India
-- **Portfolio:** [scyther.github.io](https://scyther.github.io/)
+- **Portfolio:** [www.devcase.in](https://www.devcase.in)
 - **GitHub:** [scyther](https://github.com/scyther)
 - **LinkedIn:** [scyther37](https://www.linkedin.com/in/scyther37/)
 
